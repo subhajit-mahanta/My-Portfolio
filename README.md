@@ -46,4 +46,4 @@ I'm not just pixels on a screen; I'm a human who loves to connect. Reach out thr
 
 Enough about me—let's talk about us. Whether you're looking for a design maestro, a coding ninja, or a strategic thinker, I'm here to bring your ideas to life. Let's create something extraordinary together! 🚀
 
-[Visit My Portfolio](#)
+[Visit My Portfolio](#https://subhajit-mahanta.github.io/portfolio/)
