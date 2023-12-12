@@ -1,7 +1,5 @@
 ##  My Portfolio 
 
-![Image of a person using a computer]([https://images.unsplash.com/photo-1520342868574-5fa3804e5510?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW50ZXJuZXQlMjBjb2RlcnxlbnwwfHwwfHw%3D&w=1000&q=80](https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg)](https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg](https://img.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_24877-69117.jpg))](https://www.freepik.com/premium-vector/young-man-using-computer-desk-working-online-illustration_10325812.htm))
-
 Welcome to my digital playground!  
 
 This repository houses a collection of projects that showcase my skills and experience as a [your profession]. 
